@@ -1,4 +1,4 @@
 Erlang_Practice
 ===============
 
-Erlang Practice
+練習用のリポジトリ
